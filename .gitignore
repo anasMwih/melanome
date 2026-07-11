@@ -9,8 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
-# Modèles ML lourds (> 16 MB) — à partager via Google Drive / Kaggle
-models/
+# Modèles ML — gérés via Git LFS (*.keras)
+# models/ est inclus via LFS, pas besoin de l'exclure
 
 # Dossiers d'images d'exemple (gros fichiers)
 benign/
