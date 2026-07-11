@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Modèles ML lourds (> 16 MB) — à partager via Google Drive / Kaggle
+models/
+
+# Dossiers d'images d'exemple (gros fichiers)
+benign/
+malign/
+
+# Bibliothèques temporaires
+temp_lib/
+
+# Fichiers PDF volumineux
+*.pdf
+
+# Ressources diverses
+ressource/
